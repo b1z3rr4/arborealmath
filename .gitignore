@@ -1,0 +1,11 @@
+# System
+*.log
+.DS_Store
+
+# Modules
+node_modules
+*.lock
+
+# Project reference
+
+test-project/*
